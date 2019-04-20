@@ -1,0 +1,21 @@
+{
+  "name": "handlebars",
+  "version": "1.0.0",
+  "description": "Learning how to use templates to render HTML",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czops/Handlebars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/czops/Handlebars/issues"
+  },
+  "homepage": "https://github.com/czops/Handlebars#readme"
+}

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Learning how to use templates to render HTML",
   "main": "index.js",
+  "start": "node server.js",
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
